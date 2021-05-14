@@ -1,0 +1,38 @@
+body{
+    
+    font-family: Calibri;
+    padding: 10px 20px;
+}
+
+h1 {
+	color: #FFFFFF;
+	background-color: #ffbd33;
+	padding: 10px;
+	border-radius:0 20px;
+}
+.caja{
+	height: 600px;
+	margin-top:60px;
+}
+.num_sin_iva{
+	margin-left: 300px;
+	width: 200px;
+	float:left;
+	height: 200px;
+	background-color: #449854;
+	border-radius: 20px;
+}
+.num_con_iva{
+	width:200px;
+	margin-left:800px;
+	position: relative;
+	height: 200px;
+	background-color: #449854;
+	border-radius: 20px;
+}
+.numero1-texto{
+	margin-top:0;
+}
+.boton{
+	margin-left:500px;
+}
